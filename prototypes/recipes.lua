@@ -9,7 +9,7 @@ data:extend(
     {
       {"storage-tank", 5},
       {"steel-plate", 20},
-      {"iron-pipe", 20}
+      {"pipe", 20}
     },
     result= "5x5-storage-tank"
   },
@@ -22,7 +22,7 @@ data:extend(
     {
       {"storage-tank", 15},
       {"steel-plate", 20},
-      {"iron-pipe", 40}
+      {"pipe", 40}
     },
     result= "13x5-storage-tank"
   }}
