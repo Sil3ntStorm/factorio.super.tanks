@@ -10,7 +10,11 @@ data:extend(
     {
       {
         type = "unlock-recipe",
-        recipe = "5x5-storage-tank"
+        recipe = "5x5-16-storage-tank"
+      },
+      {
+        type = "unlock-recipe",
+        recipe = "5x5-12-storage-tank"
       }
     },
     unit =
