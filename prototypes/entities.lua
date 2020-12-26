@@ -3,7 +3,7 @@ data:extend(
   {
     type = "storage-tank",
     name = "5x5-16-storage-tank",
-    icon = "__SuperTanks__/graphics/icons/5x5-16-storage-tank.png",
+    icon = "__SuperTanks-1.1__/graphics/icons/5x5-16-storage-tank.png",
     icon_size = 32,
     flags = {"placeable-player", "player-creation"},
     minable = {mining_time = 3, result = "5x5-16-storage-tank"},
@@ -46,7 +46,7 @@ data:extend(
 		{
 		sheet =
 		{
-			filename = "__SuperTanks__/graphics/entity/5x5-storage-tank-1.png",
+			filename = "__SuperTanks-1.1__/graphics/entity/5x5-storage-tank-1.png",
 			priority = "extra-high",
 			frames = 1,
 			width = 224,
@@ -119,7 +119,7 @@ data:extend(
   {
     type = "storage-tank",
     name = "5x5-12-storage-tank",
-    icon = "__SuperTanks__/graphics/icons/5x5-12-storage-tank.png",
+    icon = "__SuperTanks-1.1__/graphics/icons/5x5-12-storage-tank.png",
     icon_size = 32,
     flags = {"placeable-player", "player-creation"},
     minable = {mining_time = 3, result = "5x5-12-storage-tank"},
@@ -156,7 +156,7 @@ data:extend(
 		{
 		sheet =
 		{
-			filename = "__SuperTanks__/graphics/entity/5x5-storage-tank-2.png",
+			filename = "__SuperTanks-1.1__/graphics/entity/5x5-storage-tank-2.png",
 			priority = "extra-high",
 			frames = 1,
 			width = 224,
